@@ -1,0 +1,29 @@
+
+
+.nav_color{
+    background-color:#1b91bf;
+   
+}
+.hero{
+    
+}
+.sec_hero{
+    margin-top:55px;
+    background: url(../img/hero.svg);
+    background-size: cover;
+   background-position: center;
+    width: 100%;
+    padding: 20%;
+}
+.sec_hero_mobil{
+    margin-top:55px;
+    background: url(../img/hero_movil.svg);
+    background-size: cover;
+   background-position: center;
+    width: 100%;
+    padding: 40%;
+}
+
+.title_v{
+    margin-bottom: 20px;
+}
