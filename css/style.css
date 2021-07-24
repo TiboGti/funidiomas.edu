@@ -24,12 +24,12 @@
 }
 
 .items-navbar{
-    padding-left: 15%;
+    padding-right: 9%;
 
 }
 .hero-sec-1{
     padding-top: 23%;
-    padding-left: 6%;
+    padding-left: ;
 }
 
 .hero{
@@ -56,11 +56,22 @@
 
 .btn-reg{
 
-    font-family:'Roboto', sans-serif; 
+    
     font-size: 15px;
     color: white;
     margin-top: 17px;
     font-weight: 600;
-    background: #0F3154;
+    
     margin-left: 2px;
+}
+
+.btn-log{
+
+    margin-left: 30%;
+
+}
+
+.sec-1{
+
+    margin-top: 6%;
 }
